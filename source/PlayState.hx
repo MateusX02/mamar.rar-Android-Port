@@ -134,7 +134,7 @@ class PlayState extends MusicBeatState
 
 	public var notes:FlxTypedGroup<Note>;
 	public var unspawnNotes:Array<Note> = [];
-	ppublic var eventNotes:Array<Dynamic> = [];
+	public var eventNotes:Array<Dynamic> = [];
 
 	private var strumLine:FlxSprite;
 
