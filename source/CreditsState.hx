@@ -88,7 +88,7 @@ class CreditsState extends MusicBeatState
 			['Psych Engine Android'],
 			['M.A. Jigsaw',		    'majigsaw',		    'Main Coder of The Port',	 'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ',	    'F73838'],
 			['El port'],
-			['MateusX02',		    'shubs',		    'UAAAAAAAAA VOU MAMA\N(tar)',	 'https://www.youtube.com/MateusX02',	    'F73838'],
+			['MateusX02',		    'shubs',		    'UAAAAAAAAA VOU MAMA\n(tar)',	 'https://www.youtube.com/MateusX02',	    'F73838'],
 			['AAAAA EU VO MAMA'],
 			['BeastlyChip',			'chip',			'Compositor e charter de Detention (Beastlychip)',															'https://twitter.com/BeastlyChip',	'FFFFFF'],
 			['BeastlyMaxx',			'maxx',			'Compositora de Detention (Beastlymaxx)',																	'https://twitter.com/BeastlyMaxxVivi',		'FFFFFF'],
