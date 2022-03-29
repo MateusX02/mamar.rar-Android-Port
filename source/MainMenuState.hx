@@ -45,13 +45,13 @@ class MainMenuState extends MusicBeatState
 
 	override function create()
 	{
-		WeekData.loadTheFirstEnabledMod();
-
-		#if desktop
+			#if desktop
 		// Updating Discord Rich Presence
 		DiscordClient.changePresence("In the Menus", null);
 		#end
+
 		debugKeys = ClientPrefs.copyKey(ClientPrefs.keyBinds.get('debug_1'));
+
 
 		camGame = new FlxCamera();
 		camAchievement = new FlxCamera();
