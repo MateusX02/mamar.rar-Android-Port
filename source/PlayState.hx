@@ -2016,7 +2016,7 @@ class PlayState extends MusicBeatState
 		generatedMusic = true;
 	}
 
-	function eventPushed(event:EventNote) {
+		function eventPushed(event:Array<Dynamic>) {
 		switch(event.event) {
 			case 'Change Character':
 				var charType:Int = 0;
